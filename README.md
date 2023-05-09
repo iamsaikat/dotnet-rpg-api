@@ -1,6 +1,6 @@
 ## Demo RPG Game API application with ASP.NET Core
 
-This Project based on [patrickgod/dotnet7-rpg](https://github.com/patrickgod/dotnet7-rpg)
+This Project based on [patrickgod/dotnet7-rpg](https://github.com/patrickgod/dotnet7-rpg) project.
 
 It showcases:
 - Blazor WebAssembly
@@ -34,8 +34,7 @@ To run the application:
       ```
       dotnet watch run
       ```
-
-    This will run application with the profile.
+This will run application with hot reload.
 
 
 ## Optional
